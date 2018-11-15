@@ -94,14 +94,14 @@ The following sections document the development history of clUHbs.
 
 Mockups for the following pages were implemented during M1:
 
-<img width="200px" height="200px" src="images/super-admin-club-directory.PNG"/>
-<img width="200px" height="200px" src="images/manage-club.PNG"/>
-<img width="200px" height="200px" src="images/edit-club.PNG"/>
-<img width="200px" height="200px" src="images/addclub1.png"/>
+<img width="200px" height="100px" src="images/super-admin-club-directory.PNG"/>
+<img width="200px" height="100px" src="images/manage-club.PNG"/>
+<img width="200px" height="100px" src="images/edit-club.PNG"/>
+<img width="200px" height="100px" src="images/addclub1.png"/>
 
 Milestone 1 was implemented as [clUHbs GitHub Milestone M1](https://github.com/cluhbs/cluhbs/milestone/1):
 
-(screenshot of m1 milestone)
+![](images/M1-milestone1.png)
 
 Milestone 1 consisted of ___ issues, and progress was managed via the [clUHbs GitHub Project M1](https://github.com/cluhbs/cluhbs/projects/1):
 
