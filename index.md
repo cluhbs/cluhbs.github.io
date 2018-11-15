@@ -4,8 +4,6 @@ clUHbs is an application that provides a centralized directory for UH Manoa stud
 
 ![](images/landing-page.PNG)
 
-(create profile)
-
 After you create an account, you can browse through the club directory page:
 
 ![](images/club-directory.PNG)
