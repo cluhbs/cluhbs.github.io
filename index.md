@@ -1,32 +1,49 @@
 
-## About
+## About clUHbs
 clUHbs is an application that provides a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
+
+(landing)
+
+(create profile)
+
+After you create a an account, you can browse through the club directory page:
+
+(club admin - add club)
+
+(club admin - manage club)
+After your club is added, you can manage your club's information from the Manage Club page and click the "Edit" button:
+
+![](images/manage-club.png)
+
+![](images/edit-club.png)
+
+
 
 ## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of clUHbs](https://github.com/cluhbs/cluhbs.github.io.git), or clone it using git. 
+Second, [download a copy of clUHbs](https://github.com/cluhbs/cluhbs.github.io.git), or clone it using git.
 
 Third, cd into the app/ directory and install the required libraries with:
 
 ```$ meteor npm install```
 
-Once the libraries are installed, you can run the application by invoking: 
+Once the libraries are installed, you can run the application by invoking:
 
 ```$ meteor npm run start```
 
-The first time you run the app, it will create some default users and data. 
+The first time you run the app, it will create some default users and data.
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-Lastly, you can run ESLint over the code in the imports/ directory with: 
+Lastly, you can run ESLint over the code in the imports/ directory with:
 
 ```$ meteor npm run lint```
 
 ## Application Design
-### Directory Structure 
-The top-level directory structure contains: 
+### Directory Structure
+The top-level directory structure contains:
 ```
 app/        # holds the Meteor application sources
 config/     # holds configuration files, such as settings.developmen.json
@@ -72,8 +89,27 @@ The following sections document the development history of BowFolios.
 
 ### Milestone 1: Mockup Development
 
+Mockups for the following pages were implemented during M1:
+
+<img width="200px" src="images/super-admin-club-directory.png"/>
+<img width="200px" src="images/manage-club.png"/>
+<img width="200px" src="images/edit-club.png"/>
+
+Milestone 1 was implemented as [clUHbs GitHub Milestone M1](https://github.com/cluhbs/cluhbs/milestone/1):
+
+(screenshot of m1 milestone)
+
+Milestone 1 consisted of ___ issues, and progress was managed via the [clUHbs GitHub Project M1](https://github.com/cluhbs/cluhbs/projects/1):
+
+(screenshot of m1 project)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+(screenshot of m1 graph)
+
+
 ## Contact Us
-Developers: 
+Developers:
 * Kathleen Dy (kdy3@hawaii.edu)
 * Kylie Lin (link6@hawaii.edu)
 * Leisha Soberano-Keawemauhili (leishask@hawaii.edu)
