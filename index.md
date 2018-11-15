@@ -101,7 +101,7 @@ Mockups for the following pages were implemented during M1:
 
 Milestone 1 was implemented as [clUHbs GitHub Milestone M1](https://github.com/cluhbs/cluhbs/milestone/1):
 
-![](images/M1-milestone1.png)
+![](images/m1-milestone.PNG)
 
 Milestone 1 consisted of 8 issues, and progress was managed via the [clUHbs GitHub Project M1](https://github.com/cluhbs/cluhbs/projects/1):
 
@@ -109,7 +109,7 @@ Milestone 1 consisted of 8 issues, and progress was managed via the [clUHbs GitH
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-(screenshot of m1 graph)
+![](images/m1-branch-graph.PNG)
 
 
 ## Contact Us
