@@ -10,7 +10,9 @@ After you create an account, you can browse through the club directory page:
 
 ![](images/club-directory.PNG)
 
-(club admin - add club)
+Only the club admins can add a new club by clicking the "Add Club" button from the Nav bar:
+
+![](images/addclub1.png)
 
 After your club is added, you can manage your club's information from the Manage Club page and click the "Edit" button:
 
@@ -84,9 +86,9 @@ This system adopts the following naming conventions:
 * Routes to pages are named the same as their corresponding page. Example: Directory_Page.
 
 ## Development History
-The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.
+The development process for clUHbs conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.
 
-The following sections document the development history of BowFolios.
+The following sections document the development history of clUHbs.
 
 ### Milestone 1: Mockup Development
 
@@ -95,6 +97,7 @@ Mockups for the following pages were implemented during M1:
 <img width="200px" src="images/super-admin-club-directory.PNG"/>
 <img width="200px" src="images/manage-club.PNG"/>
 <img width="200px" src="images/edit-club.PNG"/>
+<img width="200px" src"images/addclub1.png/>
 
 Milestone 1 was implemented as [clUHbs GitHub Milestone M1](https://github.com/cluhbs/cluhbs/milestone/1):
 
@@ -102,7 +105,7 @@ Milestone 1 was implemented as [clUHbs GitHub Milestone M1](https://github.com/c
 
 Milestone 1 consisted of ___ issues, and progress was managed via the [clUHbs GitHub Project M1](https://github.com/cluhbs/cluhbs/projects/1):
 
-(screenshot of m1 project)
+![](images/M1-1.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
