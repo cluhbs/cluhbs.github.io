@@ -6,11 +6,10 @@ clUHbs is an application that provides a centralized directory for UH Manoa stud
 
 (create profile)
 
-After you create a an account, you can browse through the club directory page:
+After you create an account, you can browse through the club directory page:
 
 (club admin - add club)
 
-(club admin - manage club)
 After your club is added, you can manage your club's information from the Manage Club page and click the "Edit" button:
 
 ![](images/manage-club.PNG)
