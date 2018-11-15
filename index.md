@@ -103,7 +103,7 @@ Milestone 1 was implemented as [clUHbs GitHub Milestone M1](https://github.com/c
 
 ![](images/M1-milestone1.png)
 
-Milestone 1 consisted of ___ issues, and progress was managed via the [clUHbs GitHub Project M1](https://github.com/cluhbs/cluhbs/projects/1):
+Milestone 1 consisted of 8 issues, and progress was managed via the [clUHbs GitHub Project M1](https://github.com/cluhbs/cluhbs/projects/1):
 
 ![](images/M1-1.png)
 
