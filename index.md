@@ -13,9 +13,9 @@ After you create a an account, you can browse through the club directory page:
 (club admin - manage club)
 After your club is added, you can manage your club's information from the Manage Club page and click the "Edit" button:
 
-![](images/manage-club.png)
+![](images/manage-club.PNG)
 
-![](images/edit-club.png)
+![](images/edit-club.PNG)
 
 
 
