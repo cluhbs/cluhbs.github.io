@@ -91,9 +91,9 @@ The following sections document the development history of BowFolios.
 
 Mockups for the following pages were implemented during M1:
 
-<img width="200px" src="images/super-admin-club-directory.png"/>
-<img width="200px" src="images/manage-club.png"/>
-<img width="200px" src="images/edit-club.png"/>
+<img width="200px" src="images/super-admin-club-directory.PNG"/>
+<img width="200px" src="images/manage-club.PNG"/>
+<img width="200px" src="images/edit-club.PNG"/>
 
 Milestone 1 was implemented as [clUHbs GitHub Milestone M1](https://github.com/cluhbs/cluhbs/milestone/1):
 
