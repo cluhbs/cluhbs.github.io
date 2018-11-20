@@ -1,3 +1,15 @@
+# Table of contents
+
+* [About clUHbs](#about-cluhbs)
+* [Installation](#installation)
+* [Application design](#application-design)
+  * [Directory structure](#directory-structure)
+  * [Import conventions](#import-conventions)
+* [Development history](#development-history)
+  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: Data model development](#milestone-2-functionality-and-quality)
+
+
 
 ## About clUHbs
 clUHbs is an application that provides a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
@@ -58,7 +70,7 @@ The app/ directory has this top-level structure:
 replace me
 ```
 
-###Import conventions
+### Import Conventions
 This system adheres to the Meteor 1.4 guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
 
 This system accomplishes client and server-side importing in a different manner than most Meteor sample applications. In this system, every imports/ subdirectory containing any Javascript or HTML files has a top-level index.js file that is responsible for importing all files in its associated directory.
@@ -108,6 +120,8 @@ Milestone 1 consisted of 8 issues, and progress was managed via the [clUHbs GitH
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![](images/m1-branch-graph.PNG)
+
+### Milestone 2: Functionality and Quality
 
 
 ## Contact Us
