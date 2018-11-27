@@ -1,1 +1,11 @@
+title: clUHbs
+description: A Club Directory for the UH Community
 theme: jekyll-theme-cayman
+show_downloads: false
+
+gems:
+  - jekyll-mentions
+
+github:
+  is_project_page: true
+  repository_url: https://github.com/cluhbs/
