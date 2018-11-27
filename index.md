@@ -8,6 +8,8 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Functionality and Quality](#milestone-2-functionality-and-quality)
+  * [Milestone 3](#milestone-3)
+* [Contact Us](#contact-us)
 
 
 
@@ -160,6 +162,8 @@ Milestone 2 consisted of 11 issues, and progress was managed via the [clUHbs Git
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![](images/m2-branch-graph.png)
+
+## Milestone 3:
 
 Milestone 3 [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3)
 
