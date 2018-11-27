@@ -155,7 +155,7 @@ Milestone 2 was implemented as [clUHbs GitHub Milestone M2](https://github.com/c
 
 Milestone 2 consisted of 11 issues, and progress was managed via the [clUHbs GitHub Project M2](https://github.com/cluhbs/cluhbs/projects/2):
 
-![](images/M1-1.png)
+![](images/M2.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
