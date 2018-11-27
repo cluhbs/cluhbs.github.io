@@ -163,7 +163,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Milestone 3 [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3)
 
-[The deployed app is at cluhbs.meteorapp.com](cluhbs.meteorapp.com)
+[The deployed app is at cluhbs.meteorapp.com](https://cluhbs.meteorapp.com/#/)
 
 ## Contact Us
 Developers:
