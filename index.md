@@ -83,7 +83,33 @@ This structure separates configuration files (such as the setting files) in the 
 
 The app/ directory has this top-level structure:
 ```
-replace me
+client/
+  style.css      # holds CSS customizations
+  main.html      # the <head>
+  main.js        # import all the client-side html and js files.
+
+imports/
+  api/           # Define collection processing code (client + server side)
+    club/
+    interest/    
+    profile/
+    request/
+  startup/       # Define code to run when system starts up (client-only, server-only)
+    both/
+    client/        
+    server/        
+  ui/
+    components/  # templates that appear inside a page template.
+    layouts/     # Layouts contain common elements to all pages (i.e. menubar and footer)
+    pages/       # Pages are navigated to by FlowRouter routes.
+
+node_modules/    # managed by Meteor
+
+public/          
+  images/        # holds static images for landing page and predefined sample users.
+
+server/
+   main.js       # import all the server-side js files.
 ```
 
 ### Import Conventions
