@@ -14,11 +14,25 @@
 ## About clUHbs
 clUHbs is an application that provides a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
 
-![](images/landing-page.PNG)
+![](images/landing-page2.png)
 
-After you create an account, you can browse through the club directory page:
+After you create an account, you can browse through the club directory page and favorite the clubs that interest them:
 
-![](images/club-directory.PNG)
+![](images/search-interest.png)
+
+![](images/club-directory2.png)
+
+Users and club admins can create and edit a profile that provides their email, interest area, and favorite clubs:
+
+![](images/profile.png)
+
+![](images/edit-profile.png)
+
+Registered users can request to be a Club Admin by submitting a request to the admin:
+
+![](images/make-request.png)
+
+![](images/request-list.png)
 
 Only the club admins can add a new club by clicking the "Add Club" button from the Nav bar:
 
@@ -26,9 +40,9 @@ Only the club admins can add a new club by clicking the "Add Club" button from t
 
 After your club is added, you can manage your club's information from the Manage Club page and click the "Edit" button:
 
-![](images/manage-club.PNG)
+![](images/manage-club2.png)
 
-![](images/edit-club.PNG)
+![](images/edit-club2.png)
 
 
 
@@ -123,6 +137,33 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ### Milestone 2: Functionality and Quality
 
+The following pages were implemented during M2:
+
+<img width="200px" height="100px" src="images/landing-page2.png"/>
+<img width="200px" height="100px" src="images/user-homepage.png"/>
+<img width="200px" height="100px" src="images/make-request.png"/>
+<img width="200px" height="100px" src="images/request-list.png"/>
+<img width="200px" height="100px" src="images/profile.png"/>
+<img width="200px" height="100px" src="images/edit-profile.png"/>
+<img width="200px" height="100px" src="images/manage-club2.png"/>
+<img width="200px" height="100px" src="images/edit-club2.png"/>
+<img width="200px" height="100px" src="images/search-interest.png"/>
+
+Milestone 2 was implemented as [clUHbs GitHub Milestone M2](https://github.com/cluhbs/cluhbs/milestone/2):
+
+![](images/m2-milestone.png)
+
+Milestone 2 consisted of 11 issues, and progress was managed via the [clUHbs GitHub Project M2](https://github.com/cluhbs/cluhbs/projects/2):
+
+![](images/M1-1.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/m2-branch-graph.png)
+
+Milestone 3 [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3)
+
+[The deployed app is at cluhbs.meteorapp.com](cluhbs.meteorapp.com)
 
 ## Contact Us
 Developers:
