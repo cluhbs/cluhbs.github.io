@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About clUHbs](#about-cluhbs)
+* [User Guide](#user-guide)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -15,6 +16,8 @@
 
 ## About clUHbs
 clUHbs is an application that provides a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
+
+## User Guide
 
 ![](images/landing-page2.png)
 
