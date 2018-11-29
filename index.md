@@ -12,7 +12,7 @@
   * [Milestone 3](#milestone-3)
 * [Contact Us](#contact-us)
 
-
+The deployed app is at [cluhbs.meteorapp.com](https://cluhbs.meteorapp.com/#/)
 
 ## About clUHbs
 clUHbs is an application that provides a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
@@ -196,7 +196,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Milestone 3 [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3)
 
-[The deployed app is at cluhbs.meteorapp.com](https://cluhbs.meteorapp.com/#/)
+The deployed app is at [cluhbs.meteorapp.com](https://cluhbs.meteorapp.com/#/)
 
 ## Contact Us
 Developers:
