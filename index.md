@@ -87,7 +87,7 @@ For additional information and help, users can scroll down to the footer where l
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of clUHbs](https://github.com/cluhbs/cluhbs.github.io.git), or clone it using git.
+Second, [download a copy of clUHbs](https://github.com/cluhbs/cluhbs), or clone it using git.
 
 Third, cd into the app/ directory and install the required libraries with:
 
