@@ -47,7 +47,7 @@ Registered users can request to be a Club Admin by submitting a request to the a
 
 ![](images/request-list2.png)
 
-Users may also edit their account settings to their home page and change their password:
+All users may also edit their account settings to their home page and change their password by clicking "Account Settings" in the right hand corner dropdown:
 
 ![](images/account-setting.png)
 
