@@ -57,7 +57,7 @@ Users may also edit their account settings to their home page and change their p
 
 Only after becoming a clubAdmin can users add a new club by clicking the "Add Club" button from the Nav bar:
 
-![](images/addclub2.png)
+![](images/add-club2.png)
 
 ClubAdmins can manage their club's information from the Manage Club page and click the "Edit" button:
 
