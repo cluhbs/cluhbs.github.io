@@ -61,15 +61,15 @@ After your club is added, you can manage your club's information from the Manage
 
 ## Community Feedback
 
-Penny Ng, 13: "I can't wait to join one of the clubs at UH. Now I know what and where I can find info about clubs."
+"I can't wait to join one of the clubs at UH. Now I know what and where I can find info about clubs." - Penny Ng, 13
 
-Jeff Swen, 17: "You made this? Whoah, that's nice. What's your grade in this class? It should be an A"
+"You made this? Whoah, that's nice. What's your grade in this class? It should be an A" - Jeff Swen, 17
 
-Jaquelin Omota, 20: "I like the design and the logo, looks a lot like UH. Simple and convenient."
+"I like the design and the logo, looks a lot like UH. Simple and convenient." - Jaquelin Omota, 20
 
-Abcde Kane, 20: "I like that I can add my own club into the directory. Plus people don't need to have an account to see the clubs."
+"I like that I can add my own club into the directory. Plus people don't need to have an account to see the clubs." - Abcde Kane, 20
 
-Alex Leong, 19: "Did you guys actually make this? How long did it take you guys? I would definitely use this to find a club if I wasn't so busy with school."
+"Did you guys actually make this? How long did it take you guys? I would definitely use this to find a club if I wasn't so busy with school." - Alex Leong, 19
 
 ## Installation
 
