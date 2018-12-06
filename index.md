@@ -29,35 +29,49 @@ clUHbs is an application that provides a centralized directory for UH Manoa stud
 
 ## User Guide
 
-![](images/landing-page2.png)
+![](images/landing-page3.png)
 
-After you create an account, you can browse through the club directory page and favorite the clubs that interest them:
+After a user creates an account, they can browse through the club directory page by interest, name, description, meeting time, location, contact person, and contact email Also being able to favorite the clubs that interest them:
 
-![](images/search-interest.png)
+![](images/search-interest2.png)
 
-![](images/club-directory2.png)
+![](images/club-directory3.png)
 
 Users and club admins can create and edit a profile that provides their email, interest area, and favorite clubs:
 
-![](images/profile.png)
+![](images/profile2.png)
 
-![](images/edit-profile.png)
+![](images/edit-profile2.png)
 
-Registered users can request to be a Club Admin by submitting a request to the admin:
+Registered users can request to be a Club Admin by submitting a request to the admin, and will receive a accept or deny message at their home page:
 
-![](images/make-request.png)
+![](images/make-request2.png)
 
-![](images/request-list.png)
+![](images/request-list2.png)
 
-Only the club admins can add a new club by clicking the "Add Club" button from the Nav bar:
+Users may also edit their account settings to their home page and change their password:
 
-![](images/addclub1.png)
+![](images/account-setting.png)
 
-After your club is added, you can manage your club's information from the Manage Club page and click the "Edit" button:
+![](images/home-page.png)
 
-![](images/manage-club2.png)
+![](images/change-password.png)
 
-![](images/edit-club2.png)
+Only after becoming a clubAdmin can users add a new club by clicking the "Add Club" button from the Nav bar:
+
+![](images/addclub2.png)
+
+ClubAdmins can manage their club's information from the Manage Club page and click the "Edit" button:
+
+![](images/manage-club3.png)
+
+![](images/edit-club3.png)
+
+For additional information and help, users can scroll down to the footer where link resources are available:
+
+![](images/faq-page.png)
+
+![](images/contact-us.png)
 
 ## Community Feedback
 
@@ -355,14 +369,25 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 The following pages and functionality advancements were implemented during M3:
 
+<img width="200px" height="100px" src="images/landing-page3.png"/>
+<img width="200px" height="100px" src="images/faq-page.png"/>
+<img width="200px" height="100px" src="images/contact-us.png"/>
+<img width="200px" height="100px" src="images/search-interest2.png"/>
+<img width="200px" height="100px" src="images/home-page.png"/>
+<img width="200px" height="100px" src="images/account-setting.png"/>
+<img width="200px" height="100px" src="images/admin-homepage.png"/>
 
-Milestone 3 was implemented at [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3):
+Milestone 3 was implemented at [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/milestone/3):
 
+![](images/m3-milestone.png)
 
 Milestone 3 consisted of 12 issues, and progress was managed via the [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3):
 
+![](images/M3.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/m3-branch-graph.png)
 
 ## Contact Us
 Developers:
