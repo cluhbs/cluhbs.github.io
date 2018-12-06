@@ -172,7 +172,7 @@ This system adopts the following naming conventions:
 * “Global” Javascript variables (such as collections) are all lowercase. Example: club.
 * Other Javascript variables are camel-case. Example: collectionList.
 * User interface pages and components are pascal-case, with combined words having a capitalized first letter. Example: ClubDirectory.
-* Routes to pages are named the same as their corresponding page. Example: DirectoryPage.
+* Routes to pages are named the same as their corresponding page. Example: EditClub.
 
 ## Data Model
 
