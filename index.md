@@ -160,9 +160,9 @@ import './style.css';
 
 Apart from the last line that imports style.css directly, the other lines all invoke the index.js file in the specified directory.
 
-We use this approach to make it simpler to understand what code is loaded and in what order, and to simplify debugging when some code or templates do not appear to be loaded. In our approach, there are only two places to look for top-level imports: the main.js files in client/ and server/, and the index.js files in import subdirectories.
+We use this approach to make it simpler to understand what code is loaded and in what order. In our approach, there are only two places to look for top-level imports: the main.js files in client/ and server/, and the index.js files in import subdirectories.
 
-Note that this two-level import structure ensures that all code and templates are loaded, but does not ensure that the symbols needed in a given file are accessible. So, for example, a symbol bound to a collection still needs to be imported into any file that references it.
+Note that this two-level import structure ensures that all code and components/pages are loaded, but does not ensure that the symbols needed in a given file are accessible. So, for example, a symbol bound to a collection still needs to be imported into any file that references it.
 
 ### Naming conventions
 
@@ -179,6 +179,14 @@ This system adopts the following naming conventions:
 The clUHbs data model is implemented by three Javascript classes: ClubCollection, ProfileCollection and RequestCollection. These classes encapsulate a MongoDB collection with the same name and export a single variable (Clubs, Profiles and Requests) that provides access to that collection.
 
 Any part of the system that manipulates the clUHbs data model imports the Clubs, Profile or Request variable, and invokes methods of that class to get or set data.
+
+All collections also include utilize SimpleSchema to maintain the data that is allowed within the collection.
+
+## CSS
+
+The design and user interface uses the CSS stylesheet with class names that can be accessed across the application.
+
+The stylesheet is located in the /app/client/style.css file.
 
 ## Routing
 
