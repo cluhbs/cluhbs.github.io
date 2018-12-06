@@ -14,8 +14,6 @@
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
-    * [Data model unit tests](#data-model-unit-tests)
-    * [JSDoc](#jsdoc)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Functionality and Quality](#milestone-2-functionality-and-quality)
@@ -259,62 +257,8 @@ ESLint should run without generating any errors.
 
 It’s significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
 
-### Data model unit tests
-
-To run the unit tests on the data model, invoke the script named ‘test’, which is defined in the package.json file:
-
-```
-meteor npm run test
-```
-
-This outputs the results to the console. Here is an example of a successful run, with timestamps removed:
-
-```
-[~/github/bowfolios/bowfolios/app]-> meteor npm run test
-
-> bowfolios@ test /Users/philipjohnson/github/bowfolios/bowfolios/app
-> TEST_WATCH=1 meteor test --driver-package meteortesting:mocha
-
-[[[[[ Tests ]]]]]                             
-
-=> Started proxy.                             
-=> Started MongoDB.  
-
-(STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
-(STDERR) While this implementation will work correctly, it is known to be
-(STDERR) approximately three times slower than the native implementation.
-(STDERR) In order to use the native implementation instead, run
-(STDERR)
-(STDERR)   meteor npm install --save bcrypt
-(STDERR)
-(STDERR) in the root directory of your application.
-
- --------------------------------
- ----- RUNNING SERVER TESTS -----
- --------------------------------
-
-=> Started your app.
-
-=> App running at: http://localhost:3000/
-    InterestCollection
-    ✓ #define, #isDefined, #removeIt, #dumpOne, #restoreOne (69ms)
-    ✓ #findID, #findIDs  
-    ProfileCollection
-    ✓ #define, #isDefined, #removeIt, #dumpOne, #restoreOne (66ms)
-    ✓ #define (illegal interest)
-    ✓ #define (duplicate interests)
-
-   5 passing (178ms)
-
-Load the app in a browser to run client tests, or set the TEST_BROWSER_DRIVER environment variable. See https://github.com/DispatchMe/meteor-mocha/blob/master/README.md#run-app-tests
-```
-
-### JSDoc
-
-clUHbs supports documentation generation with JSDoc. The package.json file defines a script called jsdoc that runs JSDoc over the source files and outputs html to the ../../bowfolio.github.io/jsdoc directory.
-
 ## Development History
-The development process for clUHbs conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.
+The development process for clUHbs conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f18/modules/project-management/) practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.
 
 The following sections document the development history of clUHbs.
 
