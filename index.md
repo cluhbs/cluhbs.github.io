@@ -9,7 +9,7 @@
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Functionality and Quality](#milestone-2-functionality-and-quality)
-  * [Milestone 3](#milestone-3)
+  * [Milestone 3: Improvements](#milestone-3)
 * [Contact Us](#contact-us)
 
 The deployed app is at [cluhbs.meteorapp.com](https://cluhbs.meteorapp.com/#/)
@@ -192,11 +192,20 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/m2-branch-graph.png)
 
-## Milestone 3:
+## Milestone 3: Improvements
 
-Milestone 3 [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3)
+The following pages and functionality advancements were implemented during M3:
 
-The deployed app is at [cluhbs.meteorapp.com](https://cluhbs.meteorapp.com/#/)
+
+Milestone 3 was implemented at [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3):
+
+
+Milestone 3 consisted of 12 issues, and progress was managed via the [clUHbs GitHub Project M3](https://github.com/cluhbs/cluhbs/projects/3):
+
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+
 
 ## Contact Us
 Developers:
