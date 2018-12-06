@@ -172,19 +172,13 @@ This system adopts the following naming conventions:
 * “Global” Javascript variables (such as collections) are all lowercase. Example: club.
 * Other Javascript variables are camel-case. Example: collectionList.
 * User interface pages and components are pascal-case, with combined words having a capitalized first letter. Example: ClubDirectory.
-* Routes to pages are named the same as their corresponding page. Example: EditClub.
+* Routes to pages are named similar to their corresponding page. Example: request-list.
 
 ## Data Model
 
-The clUHbs data model is implemented by three Javascript classes: ClubCollection, ProfileCollection and ReqestCollection. These classes encapsulate a MongoDB collection with the same name and export a single variable (Clubs, Profiles and Requests) that provides access to that collection.
+The clUHbs data model is implemented by three Javascript classes: ClubCollection, ProfileCollection and RequestCollection. These classes encapsulate a MongoDB collection with the same name and export a single variable (Clubs, Profiles and Requests) that provides access to that collection.
 
 Any part of the system that manipulates the clUHbs data model imports the Clubs, Profile or Request variable, and invokes methods of that class to get or set data.
-
-## CSS
-
-The application uses the [Semantic UI](https://react.semantic-ui.com/) CSS framework.
-
-The Semantic UI style file is located in app/client/style.css. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory).
 
 ## Routing
 
